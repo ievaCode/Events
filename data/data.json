@@ -1,0 +1,121 @@
+{
+  "events": [
+    {
+      "type": "theater",
+      "name": "Muuuu",
+      "poster": "https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "venue": "Cadogan Hall",
+      "town": "London",
+      "date": "2023-01-05",
+      "time": "18:00",
+      "price": 50,
+      "registration": "false",
+      "importance": "true",
+      "id": 2
+    },
+    {
+      "type": "theater",
+      "name": "Hello Hello",
+      "poster": "https://images.pexels.com/photos/3321793/pexels-photo-3321793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "venue": "OPERA Social House",
+      "town": "Kaunas",
+      "date": "2023-01-05",
+      "time": "17:30",
+      "price": 0,
+      "registration": "false",
+      "importance": "true",
+      "id": 3
+    },
+    {
+      "type": "presentation",
+      "name": "JavaScript - wtf..",
+      "poster": "https://images.pexels.com/photos/2888802/pexels-photo-2888802.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "venue": "Wix",
+      "town": "Vilnius",
+      "date": "2023-01-05",
+      "time": "20:00",
+      "price": 0,
+      "registration": "true",
+      "importance": false,
+      "id": 4
+    },
+    {
+      "type": "dance",
+      "name": "Mano koncertas",
+      "poster": "https://images.pexels.com/photos/3321793/pexels-photo-3321793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "venue": "Katedros aikštė",
+      "town": "Vilnius",
+      "date": "2023-01-05",
+      "time": "12:15",
+      "price": "0",
+      "registration": "true",
+      "importance": false,
+      "id": 5
+    },
+    {
+      "type": "theater",
+      "name": "Paintings in the air",
+      "poster": "https://images.pexels.com/photos/1604991/pexels-photo-1604991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "venue": "Galerija Antis",
+      "town": "Vilnius",
+      "date": "2023-01-19",
+      "time": "07:00",
+      "price": "5",
+      "registration": "false",
+      "importance": false,
+      "id": 11
+    },
+    {
+      "type": "street art",
+      "name": "Dance around",
+      "poster": "https://images.pexels.com/photos/159273/breakdancing-battle-life-males-159273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "venue": "Kaunas str.",
+      "town": "Vilnius",
+      "date": "2023-02-02",
+      "time": "14:00",
+      "price": "0",
+      "registration": "true",
+      "importance": false,
+      "id": 19
+    },
+    {
+      "type": "theater",
+      "name": "Paintings in the air",
+      "poster": "https://images.pexels.com/photos/1604991/pexels-photo-1604991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "venue": "Galerija Antis",
+      "town": "Vilnius",
+      "date": "",
+      "time": "07:03",
+      "price": "5",
+      "registration": "false",
+      "importance": false,
+      "id": 20
+    },
+    {
+      "type": "work/learn",
+      "name": "Coding lesson online",
+      "poster": "https://img.freepik.com/premium-vector/cute-pig-singing-cartoon-vector-icon-illustration-animal-music-icon-concept-isolated-premium-vector_138676-4948.jpg?w=1380",
+      "venue": "Kablys",
+      "town": "Kaunas",
+      "date": "2023-01-12",
+      "time": "23:59",
+      "price": "0",
+      "registration": "true",
+      "importance": false,
+      "id": 21
+    },
+    {
+      "type": "theater",
+      "name": "Paintings in the air",
+      "poster": "https://images.pexels.com/photos/1604991/pexels-photo-1604991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "venue": "Galerija Antis",
+      "town": "Kaunas",
+      "date": "2023-01-18",
+      "time": "07:00",
+      "price": "22",
+      "registration": "false",
+      "importance": false,
+      "id": 23
+    }
+  ]
+}

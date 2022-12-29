@@ -1,0 +1,147 @@
+
+.eventCard{
+  width: 360px;
+  position: relative;
+  box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12);  
+  background: white;
+  border-radius: 2px;
+}
+
+.buttonsWrap{
+  position: absolute;
+  top: -40px;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  width: 100px
+}
+
+.loveWrap, .editWrap, .deleteWrap{
+  width: 24px;
+  height: 24px;  
+  border-radius: 2px;
+  border: 1px solid rgb(129, 55, 145);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.editWrap{
+  padding: 2px;
+}
+
+.editWrap img{
+  width: 17px;
+  height: auto;
+}
+
+.infoWrap{
+  padding: 10px;
+  position: relative;
+}
+
+.typeWrap{
+  position: absolute;
+  top: -10px;
+  left: 0;
+  width: fit-content;
+  padding: 5px;  
+  box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12);  
+  background-color: rgba(129, 55, 145, 0.534);
+  border-radius: 2px;
+}
+
+.type{
+   letter-spacing: 2px;
+   font-weight: 600;
+   font-size: 14px;
+}
+
+.name {
+  font-size: 28px;
+  font-weight: 700;
+  margin: 20px 0;
+  color: rgb(129, 55, 145);
+}
+
+.place{
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.venue{
+  text-decoration: none;
+}
+
+.dateWrap{
+  display: inline-block;
+  padding: 8px;
+  width: fit-content;
+  background-color: rgb(129, 55, 145);
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  position: absolute;
+  top: -50px;
+  left: -50px;
+}
+
+.dateSpan{
+  display: block;
+  font-size: 20px;
+ 
+}
+
+.time{
+  margin-top: 5px;
+  font-size: 14px;
+  float: right;
+}
+
+/* .imgWrap{
+} */
+
+img{
+  width: 100%;
+  height: auto;
+}
+
+.ticketWrap{
+  display: flex;
+  justify-content: space-between;
+}
+
+.price{
+  font-size: 12px;
+}
+
+.price span{
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.actionButton{
+  width: fit-content;
+  padding: 10px 12px;
+  background-color: rgb(129, 55, 145);
+  border: none;
+  border-radius: 2px;
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+
